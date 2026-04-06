@@ -6,6 +6,9 @@ CS24_Scenario_Dashboard.html
 build_secure.py
 enc_data.json
 
+# Node
+node_modules/
+
 # System files
 .DS_Store
 .claude/
