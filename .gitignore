@@ -1,0 +1,16 @@
+# Source dashboard files (unencrypted - local use only)
+CS24_GoalSeek_500K.html
+CS24_Scenario_Dashboard.html
+
+# Build artifacts
+build_secure.py
+enc_data.json
+
+# System files
+.DS_Store
+.claude/
+
+# Credentials - NEVER publish
+*.key
+*.pem
+*.env
